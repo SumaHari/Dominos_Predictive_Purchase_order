@@ -111,4 +111,6 @@ Add Streamlit interface for live forecasts and reports
 📝 License
 This project is licensed under the MIT License.
 
+## 👨‍💻 About the Author
 
+I am Suma S aspiring Data Analyst transitioning from software testing with 4.10 years experience .with hands-on in collecting, analyzing, and validating raw data from multiple sources while ensuring integrity for business decisions. Proficient in Python, SQL, Excel, Power BI, and data preprocessing tools, passionate about transforming data into actionable insights for process optimization 
